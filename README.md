@@ -1,7 +1,13 @@
-![image](https://github.com/user-attachments/assets/efdf3bfb-e963-404a-a286-cab9c18b31b3)
+<img src="https://github.com/user-attachments/assets/fd345865-775c-432d-b9d3-be7e6e7ace0b" width="300" />
 
 
+## Update
 
+- Added Line ESP
+  - You can now toggle on or off Line ESP for both entities or npc players.
+  - Color is by default red.
+
+<img src="https://github.com/user-attachments/assets/efdf3bfb-e963-404a-a286-cab9c18b31b3" width="300" />
 
 # Morrowind-ESP-Overlay
 This Python script creates an overlay for *The Elder Scrolls III: Morrowind* that displays additional information about in-game entities. Features include showing entity names, health bars, and health values in real-time. The overlay is rendered using PyQt5, while memory reading is done via `pymem` to fetch game data.
